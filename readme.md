@@ -10,3 +10,4 @@ Ferdinant
 Malle
 Kalle
 Ülle
+Manivald
